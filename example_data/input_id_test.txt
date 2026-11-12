@@ -1,0 +1,6 @@
+prot_A
+prot_C
+prot_X
+prot_Y
+prot_M
+prot_L

@@ -1,0 +1,8 @@
+# BLASTP 2.12.0+
+# Query: MBL_reference
+# Fields: query id, subject id, % identity, alignment length
+query_1	prot_A	100.00	300
+query_1	prot_B	24.00	280
+query_2	prot_A	99.00	299
+query_2	prot_C	30.50	150
+# End of processing
